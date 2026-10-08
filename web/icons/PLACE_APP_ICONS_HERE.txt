@@ -1,0 +1,1 @@
+See README.md — needs favicon.png, Icon-192.png, Icon-512.png, apple-touch-icon.png

@@ -1,0 +1,23 @@
+{
+    "name": "Bolt Inspection & Training",
+    "short_name": "Bolt Inspection",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#F7F7F5",
+    "theme_color": "#1C3A54",
+    "description": "ISO 17020 compliant inspection and training services across Saudi Arabia.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
